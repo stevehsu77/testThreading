@@ -1,0 +1,6 @@
+name: testThreading
+description: A sample web application
+dependencies:
+  browser: any
+  js: any
+  json: any
